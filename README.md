@@ -1,20 +1,29 @@
-<h1 align="center">Hey there 👋</h1>
+<h1 align="center">Mina Nady</h1>
+
+###
+
+<p align="center">Aspiring Mobile Developer & Lifelong Learner</p>
+
+###
+
+<h3 align="left">👨‍💻  About Me</h3>
+
+###
+
+<br clear="both">
+
+<p align="left">
+  - 🎓 Fresh grad diving deep into mobile development with Flutter<br>
+  - 📚 I'm currently learning mobile development with flutter<br>
+  - ⚡ Free time = language adventures: currently exploring Spanish<br>
+  - 👯 Open to collaboration on Flutter apps
+</p>
 
 ###
 
 <div align="center">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
-
-###
-
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<br clear="both">
-
-<p align="left">I'm Mina Nady<br><br>- 🔭 I’m a fresh graduate<br>- 📚 I'm currently learning mobile development with flutter<br>- ⚡ In my free time I learn languages (currently learning Spanish)</p>
 
 ###
 
